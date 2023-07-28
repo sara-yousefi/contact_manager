@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contact_manager/static/css/main.f75d1df9.css",
+    "main.js": "/contact_manager/static/js/main.03248a57.js",
+    "static/media/spinner.gif": "/contact_manager/static/media/spinner.5b35cef0ce49e2af8525.gif",
+    "static/media/sad-face-emogi.png": "/contact_manager/static/media/sad-face-emogi.9a0d4ed320129a9901af.png",
+    "index.html": "/contact_manager/index.html",
+    "main.f75d1df9.css.map": "/contact_manager/static/css/main.f75d1df9.css.map",
+    "main.03248a57.js.map": "/contact_manager/static/js/main.03248a57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f75d1df9.css",
+    "static/js/main.03248a57.js"
+  ]
+}
